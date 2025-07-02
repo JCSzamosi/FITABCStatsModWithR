@@ -53,8 +53,8 @@ address.
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
   <strong>Room:</strong>
-  {{page.address}} or [join the zoom](https://mcmaster.zoom.us/j/93938922036) 
-  (passcode: 194811).
+  {{page.address}} or <a href="https://mcmaster.zoom.us/j/93938922036">join the
+  zoom]</a> (passcode: 194811).
 </p>
 {% endif %}
 
@@ -66,8 +66,7 @@ This block displays the date and links to Google Calendar.
 {% if page.humandate %}
 <p id="when">
   <strong>When:</strong>
-  {{page.humandate}}; {{page.humantime}}
-  {% include workshop_calendar.html %}
+  {{page.humandate}} at {{page.humantime}}
 </p>
 {% endif %}
 
