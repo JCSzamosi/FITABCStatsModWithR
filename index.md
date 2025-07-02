@@ -131,6 +131,11 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
+<p>
+	We will check in periodically about pacing and availability, so this is a
+	tentative schedule subject to change.
+</p>
+
 {% include custom-schedule.html %}
 
 {% comment %}
