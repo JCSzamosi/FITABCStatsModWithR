@@ -52,8 +52,9 @@ address.
 {% endif %}
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
-  <strong>Where:</strong>
-  {{page.address}} or [join the zoom]()
+  <strong>Room:</strong>
+  {{page.address}} or [join the zoom](https://mcmaster.zoom.us/j/93938922036) 
+  (passcode: 194811).
 </p>
 {% endif %}
 
