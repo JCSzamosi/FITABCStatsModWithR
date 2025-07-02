@@ -97,7 +97,7 @@ Display the contact email address set in the configuration file.
 
 <p id="roles">
   <strong>Sign Up:</strong>
-  Each week a different person will lead the discussion. Please <a href="">click
+  Each week a different person will lead the discussion. Please <a href="https://docs.google.com/spreadsheets/d/1gJX8aLOylOFxhXVuA_CEjeYZ6R5NJH0h52fIacQkW48/edit?usp=sharing">click
   here</a> to choose a few sections to lead. We strongly encourage everyone who 
   is attending to sign up so we can fill the schedule and reduce the workload 
   for the organizers. <strong>You are not expected to fully understand the
