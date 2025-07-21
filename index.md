@@ -76,23 +76,11 @@ CONTACT EMAIL ADDRESS
 Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
-  <strong>Contact:</strong>
-  Please email
-  {% if page.email %}
-  {% for email in page.email %}
-  {% if forloop.last and page.email.size > 1 %}
-  or
-  {% else %}
-  {% unless forloop.first %}
-  ,
-  {% endunless %}
-  {% endif %}
-  <a href='mailto:{{email}}'>{{email}}</a>
-  {% endfor %}
-  {% else %}
-  to-be-announced
-  {% endif %}
-  for more information.
+  <strong>Book:</strong>
+   <a
+  href="https://academic-oup-com.libaccess.lib.mcmaster.ca/book/44920/chapter/384784333">Statistical
+  Modeling with R: a dual frequentist and Bayesian approach for life
+  scientsts</a>
 </p>
 
 <p id="roles">
