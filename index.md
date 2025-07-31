@@ -92,6 +92,12 @@ Display the contact email address set in the configuration file.
   material you are leading.</strong> 
 </p>
 
+<p>
+	Please join our <a href="https://hypothes.is/groups/b2kN2Ma8/fita">group on 
+	hypothes.is</a> to follow along with the notes we are making. <strong>This is
+	especially important because it allows you to see if we catch errors in the 
+	book before our discussion sessions.</strong>
+</p>
 <hr/>
 
 
