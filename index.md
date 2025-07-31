@@ -98,6 +98,12 @@ Display the contact email address set in the configuration file.
 	especially important because it allows you to see if we catch errors in the 
 	book before our discussion sessions.</strong>
 </p>
+
+<p>
+	Jake is going to try to follow along with the book's R code, clarifying and
+	expanding on it as we go. You can see that <a
+	href="https://jcszamosi.github.io/InchaustiCode/">here</a>
+</p>
 <hr/>
 
 
