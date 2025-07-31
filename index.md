@@ -144,3 +144,39 @@ See the contents of the _includes/custom-schedule.html file for an example of
 how one of these schedule tables is constructed.
 {% endcomment %}
 
+<h2 id="resources">Resources</h2>
+
+<p>
+	Youtube video: <a href="https://www.youtube.com/watch?v=3FjoUOolOYQ">Dance
+	of the p-values</a> gives a good explanation of why confidence intervals
+	tell a stronger story than p-values
+</p>
+
+<p>
+	Youtube video: <a
+	href="https://www.youtube.com/watch?v=HZGCoVF3YvM">3Blue1Brown's excellent
+	video explaining Bayes' Theorem</a>.
+</p>
+
+<p>
+	Ian Dworkin has very kindly shared his slides and example code for maximum
+	likelihood estimation:
+	<ul>
+		<li>
+			<a
+			href="https://www.dropbox.com/scl/fi/1umtft2zflgpbgwi0j3xn/IntroMLE_QMEE2022.pptx?rlkey=vof63vi107bfotyqzhkitur6m&e=1&dl=0">MLE
+			slides</a>
+		</li>
+		<li>
+			<a
+			href="https://www.dropbox.com/scl/fi/bcok2sav69ug5nhvffokl/MLE_part1_StepByStep.Rmd?rlkey=3mojygik2adtteo0l6h858t4f&e=1&dl=0">RMarkdown
+			file of a simple worked example</a>
+		</li>
+		<li>
+			<a
+			href="https://www.dropbox.com/scl/fi/xufk2dwbb03fyp11vusia/Regression_by_MLE_FirstExamples.Rmd?rlkey=gs8c26yee21m0j3sfxtahivjc&e=1&dl=0">A
+			more complicated example, also RMarkdown</a>
+		</li>
+
+	</ul>
+</p>
