@@ -177,6 +177,9 @@ how one of these schedule tables is constructed.
 			href="https://www.dropbox.com/scl/fi/xufk2dwbb03fyp11vusia/Regression_by_MLE_FirstExamples.Rmd?rlkey=gs8c26yee21m0j3sfxtahivjc&e=1&dl=0">A
 			more complicated example, also RMarkdown</a>
 		</li>
-
 	</ul>
+</p>
+<p>
+      Jake has put together <a href="https://jcszamosi.github.io/InchaustiCode/Likelihood.html">a visual
+      explanation of the concept of likelihood</a>
 </p>
