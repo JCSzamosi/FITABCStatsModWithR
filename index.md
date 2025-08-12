@@ -76,11 +76,11 @@ CONTACT EMAIL ADDRESS
 Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
-  <strong>Book:</strong>
+  <strong>Book:</strong> 
+  <strong>PLEASE NOTE WE HAVE A NEW BOOK!</strong> 
    <a
-  href="https://academic-oup-com.libaccess.lib.mcmaster.ca/book/44920/chapter/384784333">Statistical
-  Modeling with R: a dual frequentist and Bayesian approach for life
-  scientsts</a>
+  href="https://www.huber.embl.de/msmb/">Modern Statistics for Modern
+  Biology</a>
 </p>
 
 <p id="roles">
@@ -102,7 +102,7 @@ Display the contact email address set in the configuration file.
 <p>
 	Jake is going to try to follow along with the book's R code, clarifying and
 	expanding on it as we go. You can see that <a
-	href="https://jcszamosi.github.io/InchaustiCode/">here</a>
+	href="https://jcszamosi.github.io/HolmesHuber/">here</a>
 </p>
 <hr/>
 
