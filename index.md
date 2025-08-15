@@ -133,7 +133,12 @@ of code below the Schedule `<h2>` header below with
 
 <p>
 	We will check in periodically about pacing and availability, so this is a
-	tentative schedule subject to change.
+	tentative schedule subject to change. We are skipping two chapters in the
+	book: <a href="https://www.huber.embl.de/msmb/03-chap.html">Chapter 3 (data
+	visualization</a> and <a
+	href="https://www.huber.embl.de/msmb/11-chap.html">Chapter 11 (image
+	data)</a>. I do strongly recommend people look at Chapter 3 on your own.
+	Chapter 11 will only be relevant to you if you are doing image analysis.
 </p>
 
 {% include custom-schedule.html %}
