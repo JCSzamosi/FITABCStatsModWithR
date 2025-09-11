@@ -1,0 +1,45 @@
+Introduction: Read alone
+
+
+Mtg:
+Chapter 1:
+	Mostly stuff we've already talked about. What is new?
+
+	1.3.3: Poisson distribution
+	1.4 Multinomials and power
+
+Chapter 2:
+	We have covered up to 2.4, binomials and MLE (some new, helpful
+	visualizations in 2.3)
+	2.5 - 2.13
+
+Bonus Chapter: Chapter 3: Visualization (do if interested; highly recommended!)
+
+Mtg:
+	Chapter 4
+
+Mtg: 
+	Chapter 5
+
+Mtg: 
+	Chapter 6
+
+Mtg: 
+	Chapter 7
+
+Mtg: 
+	Chapter 8
+
+Mtg:
+	Chapter 9
+
+Mtg:
+	Chapter 10
+
+Bonus Chapter: Chapter 11: Image analysis (do if interested)
+
+Mtg:
+	Chapter 12
+
+Mtg:
+	Chapter 13
