@@ -152,6 +152,17 @@ how one of these schedule tables is constructed.
 <h2 id="resources">Resources</h2>
 
 <p>
+  Youtube video: <a href="https://www.youtube.com/watch?v=FgakZw6K1QQ">A more 
+  intuitive explanation of PCA</a>
+</p>
+
+<p>
+  Youtube video: <a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">
+    A playlist introducing important concepts in linear algebra
+  </a>
+</p>
+
+<p>
 	Youtube video: <a href="https://www.youtube.com/watch?v=3FjoUOolOYQ">Dance
 	of the p-values</a> gives a good explanation of why confidence intervals
 	tell a stronger story than p-values
